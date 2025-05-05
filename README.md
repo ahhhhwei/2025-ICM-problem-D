@@ -10,7 +10,7 @@ This paper focuses on the infrastructure issues in Baltimore's transportation ne
 
 ![](./pic/2500387.jpg)
 
-This paper was completed by three members from Zhejiang University of Technology:  **Wangzi Chen** , **Jiawei Wen** , and **Lisha Zhang** , and it won the Meritorious Winner (International First Prize) in ICM 2025 . Among them, Lisha Zhang was elected as the team leader (#2500387) due to her need for award recognition, and she was responsible for most of the coding. Jiawei Wen handled the modeling and initial draft of the paper, while Wangzi Chen was in charge of visualization, translation, LaTeX layout, and final review. **All three contributed equally to the project.**
+This paper was completed by three members from Zhejiang University of Technology:  **Wangzi Chen** , **Jiawei Wen** , and **Lisha Zhang** , and it won the Meritorious Winner in ICM 2025 . Among them, Lisha Zhang was elected as the team leader (#2500387) due to her need for award recognition, and she was responsible for most of the coding. Jiawei Wen handled the modeling and initial draft of the paper, while Wangzi Chen was in charge of visualization, translation, LaTeX layout, and final review. **All three contributed equally to the project.**
 
 本文由浙江工业大学的**陈王子**, **温家伟**和**张莉莎**三位成员共同完成，并荣获 ICM2025 的 Meritorious Winner（国际一等奖）。其中张莉莎被选举为 #2500387 队长，她负责了大部分代码；温家伟负责了建模和论文底稿；陈王子则负责作图、翻译、排版设计和最后的审阅；**三者贡献均等。**
 
