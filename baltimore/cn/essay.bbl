@@ -1,0 +1,68 @@
+\begin{thebibliography}{10}
+
+\bibitem{ren2014}
+X.~Ren and L.~Lyu.
+\newblock A review of methods for ranking important nodes in networks.
+\newblock {\em Chinese Science Bulletin}, 2014(13):23, 2014.
+
+\bibitem{zhang2017}
+J.~Zhang and Y.~Luo.
+\newblock Degree centrality, betweenness centrality, and closeness centrality
+  in social network.
+\newblock In {\em 2017 2nd international conference on modelling, simulation
+  and applied mathematics (MSAM2017)}, pages 300--303. Atlantis press, 2017.
+
+\bibitem{bergamini2014}
+E.~Bergamini, H.~Meyerhenke, and C.~L. Staudt.
+\newblock Approximating betweenness centrality in large evolving networks.
+\newblock In {\em 2015 Proceedings of the Seventeenth Workshop on Algorithm
+  Engineering and Experiments (ALENEX)}, pages 133--146. Society for Industrial
+  and Applied Mathematics, 2014.
+
+\bibitem{maji2020}
+G.~Maji, S.~Mandal, and S.~Sen.
+\newblock A systematic survey on influential spreaders identification in
+  complex networks with a focus on k-shell based techniques.
+\newblock {\em Expert Systems with Applications}, 161:113681, 2020.
+
+\bibitem{tortosa2021}
+L.~Tortosa, J.~F. Vicent, and G.~Yeghikyan.
+\newblock An algorithm for ranking the nodes of multiplex networks with data
+  based on the pagerank concept.
+\newblock {\em Applied Mathematics and Computation}, 392:125676, 2021.
+
+\bibitem{hamdouch2014}
+Y.~Hamdouch, W.~Y. Szeto, and Y.~J. Jiang.
+\newblock A new schedule-based transit assignment model with travel strategies
+  and supply uncertainties.
+\newblock {\em Journal of Transportation}, 67:35--67, 2014.
+
+\bibitem{gao2004}
+Z.~Y. Gao, H.~J. Sun, and L.~L. Shan.
+\newblock A continuous equilibrium network design model and algorithm for
+  transit systems.
+\newblock {\em Transportation Research Part B}, 38(3):235--250, 2004.
+
+\bibitem{mdba}
+{R}esident {P}opulation in {B}altimore {C}ity, {M}{D} --- fred.stlouisfed.org.
+\newblock \url{https://fred.stlouisfed.org/series/MDBALT5POP}.
+\newblock [Accessed 27-01-2025].
+
+\bibitem{gdpa}
+{G}ross {D}omestic {P}roduct: {A}ll {I}ndustries in {B}altimore {C}ity, {M}{D}
+  --- fred.stlouisfed.org.
+\newblock \url{https://fred.stlouisfed.org/series/GDPALL24510}.
+\newblock [Accessed 27-01-2025].
+
+\bibitem{aboutus}
+{A}bout {U}s --- baltimore.org.
+\newblock \url{https://baltimore.org/about-us/}.
+\newblock [Accessed 27-01-2025].
+
+\bibitem{Vincent1991}
+Luc~M. Vincent and Pierre Soille.
+\newblock Watersheds in digital spaces: An efficient algorithm based on
+  immersion simulations.
+\newblock {\em IEEE Trans. Pattern Anal. Mach. Intell.}, 13:583--598, 1991.
+
+\end{thebibliography}
