@@ -95,7 +95,6 @@ This paper was completed by three members from Zhejiang University of Technology
 │   ├──baltimore_traffic_heatmap_small.html
 │   ├──baltimore_traffic_heatmap_small_1.html
 │   ├──bridge.py
-│   ├──bridge_两次随机.py
 │   ├──bus_stops_all.html
 │   ├──bus_stops_all_another.html
 │   ├──clustered_all.html
