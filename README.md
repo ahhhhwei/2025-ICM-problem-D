@@ -17,96 +17,142 @@ This paper was completed by three members from Zhejiang University of Technology
 # Files / 项目文件
 
 ```
-│  README.md
-│  正文-zh.md
-│
-├─baltimore
-│  ├─cn
-│  │  │  basic.md
-│  │  │  essay.aux
-│  │  │  essay.bbl
-│  │  │  essay.log
-│  │  │  essay.out
-│  │  │  essay.pdf
-│  │  │  essay.synctex.gz
-│  │  │  essay.tex
-│  │  │  letter.docx
-│  │  │  ref.bib
-│  │  │
-│  │  └─figures
-│  │          3stage.pdf
-│  │          busroute.pdf
-│  │          cluster.png
-│  │          data.pdf
-│  │          heatmap.png
-│  │          heatmapbefore.png
-│  │          intro.pdf
-│  │          letter.pdf
-│  │          topo1.pdf
-│  │          topo2.pdf
-│  │          topo3.pdf
-│  │          vis.png
-│  │          zongshu.pdf
-│  │
-│  ├─eng
-│  │  │  2500387.pdf
-│  │  │  mcmthesis.aux
-│  │  │  mcmthesis.bbl
-│  │  │  mcmthesis.log
-│  │  │  mcmthesis.out
-│  │  │  mcmthesis.synctex.gz
-│  │  │  mcmthesis.tex
-│  │  │  mcmthesis.toc
-│  │  │  ref.bib
-│  │  │
-│  │  └─figures
-│  │          3stage.pdf
-│  │          busroute.pdf
-│  │          cluster.png
-│  │          data.pdf
-│  │          heatmap.png
-│  │          heatmapbefore.png
-│  │          intro.pdf
-│  │          letter.pdf
-│  │          ourwork.pdf
-│  │          topo1.pdf
-│  │          topo2.pdf
-│  │          topo3.pdf
-│  │          vis.png
-│  │          zongshu.pdf
-│  │
-│  └─pic
-│      │  baltimore_traffic_heatmap.html
-│      │  bridge.py
-│      │  busroute.pdf
-│      │  data.pdf
-│      │  data.pptx
-│      │  heatmap.PNG
-│      │  intro.pdf
-│      │  intro.pptx
-│      │  letter.docx
-│      │  letter.pdf
-│      │  MDOT_SHA_Annual_Average_Daily_Traffic_Baltimore.csv
-│      │  ourwork.pdf
-│      │  topo.pdf
-│      │  topo.pptx
-│      │  zongshu.pdf
-│      │  zongshu.pptx
-│      │
-│      └─cache            
-│
-└─pic
-        2500387.jpg
-        data_from.png
-        data_look.png
-        KP.png
-        our_work.png
-        quick_fill-1.png
-        quick_fill-2.png
-        quick_fill-3.png
-        result.png
-        文献方法对比与改进思路图.png
-        问题背景.png
+├---baltimore
+│   ├---cn
+│   │   ├──basic.md
+│   │   ├──essay.aux
+│   │   ├──essay.bbl
+│   │   ├──essay.log
+│   │   ├──essay.out
+│   │   ├──essay.pdf
+│   │   ├──essay.synctex.gz
+│   │   ├──essay.tex
+│   │   ├---figures
+│   │   │   ├──3stage.pdf
+│   │   │   ├──busroute.pdf
+│   │   │   ├──cluster.png
+│   │   │   ├──data.pdf
+│   │   │   ├──heatmap.png
+│   │   │   ├──heatmapbefore.png
+│   │   │   ├──intro.pdf
+│   │   │   ├──letter.pdf
+│   │   │   ├──topo1.pdf
+│   │   │   ├──topo2.pdf
+│   │   │   ├──topo3.pdf
+│   │   │   ├──vis.png
+│   │   │   └──zongshu.pdf
+│   │   ├──letter.docx
+│   │   └──ref.bib
+│   ├---eng
+│   │   ├──2500387.pdf
+│   │   ├---figures
+│   │   │   ├──3stage.pdf
+│   │   │   ├──busroute.pdf
+│   │   │   ├──cluster.png
+│   │   │   ├──data.pdf
+│   │   │   ├──heatmap.png
+│   │   │   ├──heatmapbefore.png
+│   │   │   ├──intro.pdf
+│   │   │   ├──letter.pdf
+│   │   │   ├──ourwork.pdf
+│   │   │   ├──topo1.pdf
+│   │   │   ├──topo2.pdf
+│   │   │   ├──topo3.pdf
+│   │   │   ├──vis.png
+│   │   │   └──zongshu.pdf
+│   │   ├──mcmthesis.aux
+│   │   ├──mcmthesis.bbl
+│   │   ├──mcmthesis.log
+│   │   ├──mcmthesis.out
+│   │   ├──mcmthesis.synctex.gz
+│   │   ├──mcmthesis.tex
+│   │   ├──mcmthesis.toc
+│   │   └──ref.bib
+│   ├---pic
+│       ├──baltimore_traffic_heatmap.html
+│       ├──bridge.py
+│       ├──busroute.pdf
+│       ├---cache
+│       │   ├──570feaa922c478edae030a17449d2eb5221dc9c8.json
+│       │   └──e6011c96a3475ac559038ac908b2c16a4aad5a1f.json
+│       ├──data.pdf
+│       ├──data.pptx
+│       ├──heatmap.PNG
+│       ├──intro.pdf
+│       ├──intro.pptx
+│       ├──letter.docx
+│       ├──letter.pdf
+│       ├──MDOT_SHA_Annual_Average_Daily_Traffic_Baltimore.csv
+│       ├──ourwork.pdf
+│       ├──topo.pdf
+│       ├──topo.pptx
+│       ├──zongshu.pdf
+│       └──zongshu.pptx
+├---code
+│   ├──baltimore_traffic_heatmap.html
+│   ├──baltimore_traffic_heatmap_large.html
+│   ├──baltimore_traffic_heatmap_large_1.html
+│   ├──baltimore_traffic_heatmap_small.html
+│   ├──baltimore_traffic_heatmap_small_1.html
+│   ├──bridge.py
+│   ├──bridge_两次随机.py
+│   ├──bus_stops_all.html
+│   ├──bus_stops_all_another.html
+│   ├──clustered_all.html
+│   ├──clustered_all映射.py
+│   ├──draw_bus_stops.py
+│   ├──draw_filtered_stops.py
+│   ├──draw_key_nodes.py
+│   ├──draw1.py
+│   ├──draw2.py
+│   ├──draw3.py
+│   ├──draw4.py
+│   ├──filtered_stops.html
+│   ├──filtered_stops_bigger.html
+│   ├──key_nodes.html
+│   ├──K-shell_for_all.py
+│   ├──K-shell识别关键点.py
+│   ├──nodes_all.html
+│   ├──nodes_all映射.py
+│   ├──test_01.html
+│   ├──test_02.html
+│   ├──test_03.html
+│   ├──test_04.html
+│   ├──test_05.html
+│   ├──test_06.html
+│   ├──不显示底图.py
+│   ├──处理AADT.py
+│   ├──处理busAADT.py
+│   ├──处理edges.py
+│   ├──处理lanes.py
+│   ├──处理路线个数.py
+│   ├──改进聚类(K-PandPCA)stops.py
+│   ├──合并nodes-aadt.py
+│   ├──计算0.25数.py
+│   ├──计算MSE.py
+│   ├──聚类STOPS(含XY).py
+│   ├──聚类stops.py
+│   ├──筛出1k点.py
+│   ├──筛选AADT.py
+│   ├──筛选edges.py
+│   ├──筛选node.py
+│   ├──筛选聚类stop.py
+│   ├──特征权重计算.py
+│   └──填充2655.py
+├---pic
+│   ├──2500387.jpg
+│   ├──data_from.png
+│   ├──data_look.png
+│   ├──KP.png
+│   ├──our_work.png
+│   ├──quick_fill-1.png
+│   ├──quick_fill-2.png
+│   ├──quick_fill-3.png
+│   ├──result.png
+│   ├──文献方法对比与改进思路图.png
+│   └──问题背景.png
+├──README.md
+└──正文-zh.md
 ```
 
 # Blog / 相关博客
